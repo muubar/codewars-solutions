@@ -7,8 +7,4 @@ function inArray(array1, array2) {
   }
   ).sort();
   return result;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> a77783b... solve which are in
